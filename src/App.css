@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.ParticlesBg {
+  position: "absolute";
+  z-index: -1;
+  top: 0;
+  left: 0;
+}
